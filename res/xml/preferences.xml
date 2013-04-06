@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference android:defaultValue="[eNote]" android:key="subjectPrefix" android:summary="This is the default prefix to the subject line. It will come before the date/time" android:title="Subject Prefix"></EditTextPreference>
+<EditTextPreference android:defaultValue="username" android:key="gmailUsername" android:summary="enter your gmail username here (w/o the gmail.com part)" android:title="Gmail Username"></EditTextPreference>
+<EditTextPreference android:defaultValue="password" android:password="true" android:key="gmailPassword" android:summary="enter your gmail password here" android:title="Gmail Password"></EditTextPreference>
+</PreferenceScreen>

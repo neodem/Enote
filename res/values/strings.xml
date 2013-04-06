@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Enote!</string>
+    <string name="app_name">eNote</string>
+    <string name="title">Title</string>
+    <string name="send">Send</string>
+    <string name="body">Body</string>
+    <string name="prefs">Settings</string>
+</resources>
